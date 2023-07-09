@@ -19,7 +19,7 @@
  nodemon server
  
  # Backend only
- npm run server
+ nodemon server
  
  # Frontend only
  cd client
