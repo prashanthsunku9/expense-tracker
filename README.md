@@ -1,7 +1,7 @@
 # expense-tracker
 
 
-> Full stack expense tracker
+> Full stack expense tracker(MERN)
 
 ## Usage
 
